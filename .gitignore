@@ -1,0 +1,10 @@
+.DS_Store
+.terraform
+*.tfstate
+*.tfstate.backup
+variables.tf
+.terraform.lock.hcl
+*.zip
+local.proton.auto.tfvars.json
+local.proton.variables.tf
+.vscode
